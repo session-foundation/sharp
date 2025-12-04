@@ -184,7 +184,7 @@
             ],
             'link_settings': {
               'libraries': [
-                '-l:libvips-cpp.so.<(vips_version)'
+                '-l:libvips-cpp.a.<(vips_version)'
               ],
               'ldflags': [
                 '-lstdc++fs',
