@@ -148,10 +148,8 @@
     "@img/sharp-darwin-x64": "https://github.com/session-foundation/sharp/releases/download/v0.34.6/img-sharp-darwin-x64-0.34.6.tgz",
     "@img/sharp-libvips-darwin-arm64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.6/sharp-libvips-darwin-arm64-1.2.6.tar.gz",
     "@img/sharp-libvips-darwin-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.6/sharp-libvips-darwin-x64-1.2.6.tar.gz",
-    "@img/sharp-libvips-linux-arm": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.6/sharp-libvips-linux-arm-1.2.6.tar.gz",
     "@img/sharp-libvips-linux-arm64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.6/sharp-libvips-linux-arm64-1.2.6.tar.gz",
     "@img/sharp-libvips-linux-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.6/sharp-libvips-linux-x64-1.2.6.tar.gz",
-    "@img/sharp-linux-arm": "https://github.com/session-foundation/sharp/releases/download/v0.34.6/img-sharp-linux-arm-0.34.6.tgz",
     "@img/sharp-linux-arm64": "https://github.com/session-foundation/sharp/releases/download/v0.34.6/img-sharp-linux-arm64-0.34.6.tgz",
     "@img/sharp-linux-x64": "https://github.com/session-foundation/sharp/releases/download/v0.34.6/img-sharp-linux-x64-0.34.6.tgz",
     "@img/sharp-win32-x64": "https://github.com/session-foundation/sharp/releases/download/v0.34.6/img-sharp-win32-x64-0.34.6.tgz"
