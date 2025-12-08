@@ -150,8 +150,10 @@
     "@img/sharp-libvips-darwin-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-darwin-x64-1.2.4.tar.gz",
     "@img/sharp-libvips-linux-arm64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-linux-arm64-1.2.4.tar.gz",
     "@img/sharp-libvips-linux-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-linux-x64-1.2.4.tar.gz",
+    "@img/sharp-libvips-linux-sse2-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-linux-sse2-x64-1.2.4.tar.gz",
     "@img/sharp-linux-arm64": "https://github.com/session-foundation/sharp/releases/download/v0.34.5/img-sharp-linux-arm64-0.34.5.tgz",
     "@img/sharp-linux-x64": "https://github.com/session-foundation/sharp/releases/download/v0.34.5/img-sharp-linux-x64-0.34.5.tgz",
+    "@img/sharp-linux-sse2-x64": "https://github.com/session-foundation/sharp/releases/download/v0.34.5/img-sharp-linux-sse2-x64-0.34.5.tgz",
     "@img/sharp-win32-x64": "https://github.com/session-foundation/sharp/releases/download/v0.34.5/img-sharp-win32-x64-0.34.5.tgz"
   },
   "devDependencies": {

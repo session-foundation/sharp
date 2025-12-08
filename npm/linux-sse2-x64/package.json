@@ -1,13 +1,13 @@
 {
-  "name": "@img/sharp-linux-x64",
+  "name": "@img/sharp-linux-sse2-x64",
   "version": "0.34.5",
-  "description": "Prebuilt sharp for use with Linux (glibc) x64",
+  "description": "Prebuilt sharp for use with Linux (glibc) x64 (sse2 build)",
   "author": "Lovell Fuller <npm@lovell.info>",
   "homepage": "https://sharp.pixelplumbing.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lovell/sharp.git",
-    "directory": "npm/linux-x64"
+    "directory": "npm/linux-sse2-x64"
   },
   "license": "Apache-2.0",
   "funding": {
