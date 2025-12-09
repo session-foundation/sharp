@@ -15,7 +15,7 @@
   },
   "preferUnplugged": true,
   "optionalDependencies": {
-    "@img/sharp-libvips-linux-sse2-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-linux-sse2-x64-1.2.4.tar.gz"
+    "@img/sharp-libvips-linux-x64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-linux-x64-1.2.4.tar.gz"
   },
   "files": [
     "lib"
@@ -25,7 +25,7 @@
   },
   "type": "commonjs",
   "exports": {
-    "./sharp.node": "./lib/sharp-linux-sse2-x64.node",
+    "./sharp.node": "./lib/sharp-linux-x64.node",
     "./package": "./package.json"
   },
   "engines": {

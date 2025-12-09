@@ -32,6 +32,8 @@ jobs:
     name: "build-${{ matrix.platform }} [Node.js ${{ matrix.nodejs_version_major }}] '[package]'"
     runs-on: ${{ matrix.os }}
     container: ${{ matrix.container }}
+    env:
+      npm_config_arch: ${{ contains(matrix.platform, 'sse2-x64') && 'sse2-x64' || '' }}
     strategy:
       fail-fast: false
       matrix:
