@@ -15,7 +15,7 @@
   },
   "preferUnplugged": true,
   "optionalDependencies": {
-    "@img/sharp-libvips-linux-arm64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.4/sharp-libvips-linux-arm64-1.2.4.tar.gz"
+    "@img/sharp-libvips-linux-arm64": "https://github.com/session-foundation/sharp-libvips/releases/download/v1.2.5/sharp-libvips-linux-arm64-1.2.5.tar.gz"
   },
   "files": [
     "lib"
